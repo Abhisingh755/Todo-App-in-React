@@ -1,0 +1,33 @@
+*{
+    background-color:rgb(204, 200, 200);
+}
+
+.add_button{
+    background-color:rgb(241, 178, 178);
+    border-radius:15px;
+    margin-left:30px;
+}
+.list_items{
+    display:grid;
+    grid-template-columns:64% 5%;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:5px;
+
+}
+.rmv_btn{
+    background-color:rgb(200, 250, 200);
+    font-weight:900;
+    margin-left:32px;
+    width:35px;
+
+    }
+  .rmv_btn:hover{
+      background-color:rgb(255, 98, 98);      
+  }  
+input{background-color:white;
+width:35%;
+height:20px;
+border-radius:15px;
+}
+
